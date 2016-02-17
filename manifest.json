@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "lenny-faces",
+  "short_name": "lenny-faces",
+  "description": "",
+  "version": "1.0.0",
+  "minimum_chrome_version": "38",
+  
+  "browser_action": {
+    "default_icon": {
+      "128": "assets/icon_128.png",
+      "256": "assets/icon_256.png"
+    },
+    "default_title": "Make this page red",
+    "default_popup": "popup.html"
+  }
+}

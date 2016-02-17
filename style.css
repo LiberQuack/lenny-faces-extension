@@ -1,0 +1,38 @@
+html, body {
+  width: 300px;
+  padding-right: 15px;
+}
+
+input {
+  display: block;
+  width: 100%;
+}
+
+ul {
+  list-style: none;
+  padding: 0px;
+}
+
+li {
+  transition: .2s;
+  padding: 5px;
+  vertical-align: middle;
+  height: 18px;
+  border-bottom: solid 1px #f3f3f3;
+}
+
+li:hover {
+  background-color: #eee;
+}
+
+strong {
+  display: inline-block;
+  min-width: 35%;
+  font-family: arial;
+  color: #333;
+  white-space: no-wrap;
+}
+
+span {
+  color: #555;
+}

@@ -1,0 +1,28 @@
+{
+  "name": "lenny-faces-extension",
+  "version": "1.0.0",
+  "authors": [
+    "Thiago Martins <rogue.thiago@gmail.com>"
+  ],
+  "description": "A simple chrome extension with lenny faces",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "lenny",
+    "chrome",
+    "extension"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "clipboard": "zenorocha/clipboard.js#~1.5.8"
+  }
+}
