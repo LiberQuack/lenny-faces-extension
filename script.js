@@ -3,7 +3,7 @@ function searchLenny(htmlList, searchValue){
   let lennyHtmlItems = Array.from(htmlList.children);
   
   lennyHtmlItems.forEach(lennyItem => {
-    var found = lennyItem.textContent.toUpperCase().indexOf(searchValue.toUpperCase()) >= 0;
+    let found = lennyItem.textContent.toUpperCase().indexOf(searchValue.toUpperCase()) >= 0;
     if (found) {
       lennyItem.hidden = false;
     } else {
@@ -13,10 +13,12 @@ function searchLenny(htmlList, searchValue){
 }
 
 function buildList(lennyFaces){
+  lennyFaces.forEach(lenny => lenny.tags.sort());
+  lennyFaces.sort((left,right) => left.tags.join(" ").localeCompare(right.tags.join(" ")));
+  
   lennyFaces.forEach(lenny => {
-    let listItem = document.createElement("li");
-    listItem.lenny = lenny;
-    listItem.innerHTML = `<strong>${lenny.title}</strong><span>${lenny.tags.join(", ")}</span>`;
+    let listItem = document.createElement('li');
+    listItem.innerHTML = `<strong>${lenny.title}</strong><span>${lenny.tags.join(', ')}</span>`;
 
     let clipboard =  new Clipboard(listItem, {text: () => lenny.value});
     clipboard.on('success', () => window.close());
@@ -25,9 +27,8 @@ function buildList(lennyFaces){
   });
 }
 
-
 //Executions
-fetch("lenny-faces.json")
+fetch('lenny-faces.json')
   .then(res => res.json())
   .then(json => buildList(json));
 

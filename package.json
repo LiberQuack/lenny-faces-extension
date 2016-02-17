@@ -1,0 +1,23 @@
+{
+  "name": "lenny-faces-extension",
+  "version": "1.0.0",
+  "description": "A simple chrome extension with lenny faces",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinsThiago/lenny-faces-extension.git"
+  },
+  "keywords": [
+    "lenny",
+    "chrome",
+    "extensions"
+  ],
+  "author": "Thiago Martins <rogue.thiago@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MartinsThiago/lenny-faces-extension/issues"
+  },
+  "homepage": "https://github.com/MartinsThiago/lenny-faces-extension#readme",
+  "devDependencies": {
+    "gulp-zip": "^3.2.0"
+  }
+}
