@@ -17,9 +17,10 @@ function buildList(lennyFaces){
     let listItem = document.createElement("li");
     listItem.lenny = lenny;
     listItem.innerHTML = `<strong>${lenny.title}</strong><span>${lenny.tags.join(", ")}</span>`;
-    new Clipboard(listItem, {
-      text: () => lenny.value
-    });
+
+    let clipboard =  new Clipboard(listItem, {text: () => lenny.value});
+    clipboard.on('success', () => window.close());
+    
     list.appendChild(listItem);
   });
 }

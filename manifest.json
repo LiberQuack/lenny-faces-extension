@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "lenny-faces",
-  "short_name": "lenny-faces",
-  "description": "",
+  "name": "Lenny Faces Chrome Extension",
+  "short_name": "Lenny Faces",
+  "description": "A simple chrome extension with lenny faces",
   "version": "1.0.0",
   "minimum_chrome_version": "38",
   
@@ -11,7 +11,6 @@
       "128": "assets/icon_128.png",
       "256": "assets/icon_256.png"
     },
-    "default_title": "Make this page red",
     "default_popup": "popup.html"
   }
 }
