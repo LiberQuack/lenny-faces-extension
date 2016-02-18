@@ -1,137 +1,232 @@
 [
-    {
-        "title": "( ͡° ͜ʖ ͡°)",
-        "value": "( ͡° ͜ʖ ͡°)",
-        "tags": ["default","lenny"]
-    },
-    {
-        "title": "( ͠° ͟ʖ ͡°)",
-        "value": "( ͠° ͟ʖ ͡°)",
-        "tags": ["angry"]
-    },
-    {
-        "title": "ᕦ( ͡° ͜ʖ ͡°)ᕤ",
-        "value": "ᕦ( ͡° ͜ʖ ͡°)ᕤ",
-        "tags": ["muscle","strong"]
-    },
-    {
-        "title": "( ͡~ ͜ʖ ͡°)",
-        "value": "( ͡~ ͜ʖ ͡°)",
-        "tags": ["blink"]
-    },
-    {
-        "title": "( ͡o ͜ʖ ͡o)",
-        "value": "( ͡o ͜ʖ ͡o)",
-        "tags": ["amazing","look"]
-    },
-    {
-        "title": "(ง ͠° ͟ل͜ ͡°)ง",
-        "value": "(ง ͠° ͟ل͜ ͡°)ง",
-        "tags": ["fight","boxe"]
-    },
-    {
-        "title": "{ ͡• ͜ʖ ͡•}",
-        "value": "{ ͡• ͜ʖ ͡•}",
-        "tags": ["happy"]
-    },
-    {
-        "title": "ヽ༼ຈل͜ຈ༽ﾉ",
-        "value": "ヽ༼ຈل͜ຈ༽ﾉ",
-        "tags": ["gorgeous","amazing","yeah"]
-    },
-    {
-        "title": "( ͡° ͜ʖ ▀)",
-        "value": "( ͡° ͜ʖ ▀)",
-        "tags": ["eye","patch"]
-    },
-    {
-        "title": "(⌐▀͡ ̯ʖ▀)",
-        "value": "(⌐▀͡ ̯ʖ▀)",
-        "tags": ["glasses","look"]
-    },
-    {
-        "title": "(ﾉಠ_ಠ)ﾉ",
-        "value": "(ﾉಠ_ಠ)ﾉ",
-        "tags": ["wtf","stupid"]
-    },
-    {
-        "title": "( ° ͜ਊ °)╭∩╮",
-        "value": "( ° ͜ਊ °)╭∩╮",
-        "tags": ["middle","finger","clown"]
-    },
-    {
-        "title": "༼凸 ◉_◔༽凸",
-        "value": "༼凸 ◉_◔༽凸",
-        "tags": ["middle","finger"]
-    },
-    {
-        "title": "༼ಠ益ಠ༽╭∩╮",
-        "value": "༼ಠ益ಠ༽╭∩╮",
-        "tags": ["middle","finger","mad"]
-    },
-    {
-        "title": "(∩ ͡° ͜ʖ ͡°)⊃━☆",
-        "value": "(∩ ͡° ͜ʖ ͡°)⊃━☆",
-        "tags": ["punch"]
-    },
-    {
-        "title": "༼ᕗຈل͜ຈ༽ᕗ",
-        "value": "༼ᕗຈل͜ຈ༽ᕗ",
-        "tags": ["amazing","yeah"]
-    },
-    {
-        "title": "(ಥ益ಥ;)",
-        "value": "(ಥ益ಥ;)",
-        "tags": ["agonizing","crying"]
-    },
-    {
-        "title": "<:::::[]=¤༼ຈل͜ຈ༽ﾉ",
-        "value": "<:::::[]=¤༼ຈل͜ຈ༽ﾉ",
-        "tags": ["sword"]
-    },
-    {
-        "title": "ヽ༼ʘ̚ل͜ʘ̚༽ﾉ",
-        "value": "ヽ༼ʘ̚ل͜ʘ̚༽ﾉ",
-        "tags": ["amazing","awesome","wondeful"]
-    },
-    {
-        "title": "╰༼ཀДཀ༽╯",
-        "value": "╰༼ཀДཀ༽╯",
-        "tags": ["crying","sadness"]
-    },
-    {
-        "title": "ᘳ◕ᴥ◕ᘰ",
-        "value": "ᘳ◕ᴥ◕ᘰ",
-        "tags": ["pet","dog"]
-    },
-    {
-        "title": "(⌐■_■)",
-        "value": "(⌐■_■)",
-        "tags": ["glasses","look"]
-    },
-    {
-        "title": "( •_•)>⌐■-■",
-        "value": "( •_•)>⌐■-■",
-        "tags": ["without","glasses","look"]
-    },
-    {
-        "title": "(ι´Д｀)ﾉ",
-        "value": "(ι´Д｀)ﾉ",
-        "tags": ["tired","sleep"]
-    },
-    {
-        "title": "┣▇▇▇═──",
-        "value": "┣▇▇▇═──",
-        "tags": ["vaccine","injection"]
-    },
-    {
-        "title": "༼ ºل͟º༼ ºل͟º༽ºل͟º ༽",
-        "value": "༼ ºل͟º༼ ºل͟º༽ºل͟º ༽",
-        "tags": ["group"]
-    },
-    {
-        "title": "[̲̅$̲̅(̲̅ ͡° ͜ʖ ͡°̲̅)̲̅$̲̅]",
-        "value": "[̲̅$̲̅(̲̅ ͡° ͜ʖ ͡°̲̅)̲̅$̲̅]",
-        "tags": ["money"]
-    }
+  {
+    "title": "( ͡° ͜ʖ ͡°)",
+    "value": "( ͡° ͜ʖ ͡°)",
+    "tags": [
+      "default",
+      "lenny"
+    ]
+  },
+  {
+    "title": "( ͠° ͟ʖ ͡°)",
+    "value": "( ͠° ͟ʖ ͡°)",
+    "tags": [
+      "angry"
+    ]
+  },
+  {
+    "title": "ᕦ( ͡° ͜ʖ ͡°)ᕤ",
+    "value": "ᕦ( ͡° ͜ʖ ͡°)ᕤ",
+    "tags": [
+      "muscle",
+      "strong"
+    ]
+  },
+  {
+    "title": "( ͡~ ͜ʖ ͡°)",
+    "value": "( ͡~ ͜ʖ ͡°)",
+    "tags": [
+      "blink"
+    ]
+  },
+  {
+    "title": "( ͡o ͜ʖ ͡o)",
+    "value": "( ͡o ͜ʖ ͡o)",
+    "tags": [
+      "amazing",
+      "look"
+    ]
+  },
+  {
+    "title": "(ง ͠° ͟ل͜ ͡°)ง",
+    "value": "(ง ͠° ͟ل͜ ͡°)ง",
+    "tags": [
+      "fight",
+      "boxe"
+    ]
+  },
+  {
+    "title": "{ ͡• ͜ʖ ͡•}",
+    "value": "{ ͡• ͜ʖ ͡•}",
+    "tags": [
+      "happy"
+    ]
+  },
+  {
+    "title": "ヽ༼ຈل͜ຈ༽ﾉ",
+    "value": "ヽ༼ຈل͜ຈ༽ﾉ",
+    "tags": [
+      "gorgeous",
+      "amazing",
+      "yeah"
+    ]
+  },
+  {
+    "title": "( ͡° ͜ʖ ▀)",
+    "value": "( ͡° ͜ʖ ▀)",
+    "tags": [
+      "eye",
+      "patch"
+    ]
+  },
+  {
+    "title": "(⌐▀͡ ̯ʖ▀)",
+    "value": "(⌐▀͡ ̯ʖ▀)",
+    "tags": [
+      "glasses",
+      "look"
+    ]
+  },
+  {
+    "title": "(ﾉಠ_ಠ)ﾉ",
+    "value": "(ﾉಠ_ಠ)ﾉ",
+    "tags": [
+      "wtf",
+      "stupid"
+    ]
+  },
+  {
+    "title": "( ° ͜ਊ °)╭∩╮",
+    "value": "( ° ͜ਊ °)╭∩╮",
+    "tags": [
+      "middle",
+      "finger",
+      "clown"
+    ]
+  },
+  {
+    "title": "༼凸 ◉_◔༽凸",
+    "value": "༼凸 ◉_◔༽凸",
+    "tags": [
+      "middle",
+      "finger"
+    ]
+  },
+  {
+    "title": "༼ಠ益ಠ༽╭∩╮",
+    "value": "༼ಠ益ಠ༽╭∩╮",
+    "tags": [
+      "middle",
+      "finger",
+      "mad"
+    ]
+  },
+  {
+    "title": "(∩ ͡° ͜ʖ ͡°)⊃━☆",
+    "value": "(∩ ͡° ͜ʖ ͡°)⊃━☆",
+    "tags": [
+      "punch"
+    ]
+  },
+  {
+    "title": "༼ᕗຈل͜ຈ༽ᕗ",
+    "value": "༼ᕗຈل͜ຈ༽ᕗ",
+    "tags": [
+      "amazing",
+      "yeah"
+    ]
+  },
+  {
+    "title": "(ಥ益ಥ;)",
+    "value": "(ಥ益ಥ;)",
+    "tags": [
+      "agonizing",
+      "crying"
+    ]
+  },
+  {
+    "title": "<:::::[]=¤༼ຈل͜ຈ༽ﾉ",
+    "value": "<:::::[]=¤༼ຈل͜ຈ༽ﾉ",
+    "tags": [
+      "sword"
+    ]
+  },
+  {
+    "title": "ヽ༼ʘ̚ل͜ʘ̚༽ﾉ",
+    "value": "ヽ༼ʘ̚ل͜ʘ̚༽ﾉ",
+    "tags": [
+      "amazing",
+      "awesome",
+      "yeah",
+      "wondeful"
+    ]
+  },
+  {
+    "title": "╰༼ཀДཀ༽╯",
+    "value": "╰༼ཀДཀ༽╯",
+    "tags": [
+      "crying",
+      "sadness"
+    ]
+  },
+  {
+    "title": "ᘳ◕ᴥ◕ᘰ",
+    "value": "ᘳ◕ᴥ◕ᘰ",
+    "tags": [
+      "pet",
+      "dog"
+    ]
+  },
+  {
+    "title": "(⌐■_■)",
+    "value": "(⌐■_■)",
+    "tags": [
+      "glasses",
+      "look"
+    ]
+  },
+  {
+    "title": "( •_•)>⌐■-■",
+    "value": "( •_•)>⌐■-■",
+    "tags": [
+      "glasses",
+      "look"
+    ]
+  },
+  {
+    "title": "(ι´Д｀)ﾉ",
+    "value": "(ι´Д｀)ﾉ",
+    "tags": [
+      "tired",
+      "sleep"
+    ]
+  },
+  {
+    "title": "┣▇▇▇═──",
+    "value": "┣▇▇▇═──",
+    "tags": [
+      "vaccine",
+      "injection"
+    ]
+  },
+  {
+    "title": "༼ ºل͟º༼ ºل͟º༽ºل͟º ༽",
+    "value": "༼ ºل͟º༼ ºل͟º༽ºل͟º ༽",
+    "tags": [
+      "group"
+    ]
+  },
+  {
+    "title": "(⌐■_■) ...",
+    "value": "(⌐■_■)\r\n\r\n( •_• )>⌐■-■\r\n\r\n( O_O)",
+    "tags": [
+      "big",
+      "glasses"
+    ]
+  },
+  {
+    "title": "╚═( ͡° ͜ʖ ͡°)═╝ ...",
+    "value": "╚═( ͡° ͜ʖ ͡°)═╝\r\n╚═(███)═╝\r\n╚═(███)═╝\r\n.╚═(███)═╝\r\n..╚═(███)═╝\r\n…╚═(███)═╝\r\n…╚═(███)═╝\r\n..╚═(███)═╝\r\n.╚═(███)═╝\r\n╚═(███)═╝\r\n.╚═(███)═╝\r\n..╚═(███)═╝\r\n…╚═(███)═╝\r\n…╚═(███)═╝\r\n…..╚(███)╝\r\n……╚(██)╝\r\n………(█)\r\n……….*\r\n",
+    "tags": [
+      "lennypede",
+      "big"
+    ]
+  },
+  {
+    "title": "[̲̅$̲̅(̲̅ ͡° ͜ʖ ͡°̲̅)̲̅$̲̅]",
+    "value": "[̲̅$̲̅(̲̅ ͡° ͜ʖ ͡°̲̅)̲̅$̲̅]",
+    "tags": [
+      "money"
+    ]
+  }
 ]
