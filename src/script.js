@@ -32,4 +32,5 @@ fetch('lenny-faces.json')
   .then(res => res.json())
   .then(json => buildList(json));
 
+search.focus();
 search.addEventListener("input",() => searchLenny(list, search.value));
