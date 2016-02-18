@@ -34,3 +34,9 @@ fetch('lenny-faces.json')
 
 search.focus();
 search.addEventListener("input",() => searchLenny(list, search.value));
+search.onblur = () => search.placeholder = "";
+
+form.onsubmit = e => {
+    e.preventDefault();
+    list.querySelector("li:not([hidden])").click();
+}
