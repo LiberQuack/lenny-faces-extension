@@ -26,6 +26,8 @@ li {
   vertical-align: middle;
   height: 18px;
   border-bottom: solid 1px #f3f3f3;
+  overflow: hidden;
+  white-space: nowrap;
 }
 
 li:hover {
